@@ -5,7 +5,7 @@ GA4 &amp; analytics portfolio
 Following the 6-month GA4 & E-commerce Analytics Plan.
 
 ## Live Site
-https://analytics-portfolio-rediets-projects-1439443a.vercel.app/
+https://analytics-portfolio-neon.vercel.app/
 
 ## Projects
 1. GA4 Implementation Practice
